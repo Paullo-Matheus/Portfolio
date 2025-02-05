@@ -45,15 +45,15 @@ Certifique-se de que o serviço esteja em execução se estiver utilizando local
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/Paullo-Matheus/Projeto_Fiap_Fase01.git
+    git clone https://github.com/Paullo-Matheus/Power-BI-Faturamento.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd Projeto_Fiap_Fase01
+    cd Projeto_Power-BI-Faturamento
     ```
 
-Acesse o endereço local: `http://localhost:5000/swagger`.
+
 
 ## Contato
 
@@ -62,7 +62,7 @@ Acesse o endereço local: `http://localhost:5000/swagger`.
 - **RM**: A0152641
 - **Celular**: (11)-99235-6351 
 
-## Link Acesso
+## Link-Acesso
 
 `https://app.powerbi.com/links/3UmY307WWk?ctid=9744600e-3e04-492e-baa1-25ec245c6f10&pbi_source=linkShare`
 

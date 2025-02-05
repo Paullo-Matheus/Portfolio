@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplicação POWER-BI (MKT-Faturamento)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h3 {
+            color: #3498db;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        a {
+            color: #3498db;
+        }
+        pre {
+            background-color: #f1f1f1;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        blockquote {
+            font-style: italic;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+            margin-left: 0;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Aplicação POWER-BI ( MKT-Faturamento)</h1>
+    
+    <blockquote>
+        Breve descrição sobre mim: Meu Nome é Paulo Matheus Gomes e sou apaixonado por dados, atualmente faço uma pós graduação em Ciência de Dados e Machine Learning na Fiap.
+    </blockquote>
+
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQE3Ako91luc9Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730928598467?e=1744243200&v=beta&t=THh9lQY5HsbcdeV1wTiERnGygRbx8mpUlecZEkMRvc8" alt="Logo" width="200"/>
+
+    <blockquote>
+        Breve descrição e finalidade do Projeto.
+    </blockquote>
+
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="#descricao">Descrição</a></li>
+        <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
+        <li><a href="#pre-requisitos">Pré-Requisitos</a></li>
+        <li><a href="#link-git">Link-Git</a></li>
+        <li><a href="#contato">Contato</a></li>
+        <li><a href="#uso">Uso</a></li>
+    </ul>
+
+    <h2 id="descricao">Descrição</h2>
+    <p>Projeto de aplicação Power BI com o objetivo de Visualizar os principais indicadores envolvendo Faturamento da Empresa. Foi desenvolvido em linguagem DAX.</p>
+    <p><strong>Exemplo:</strong> Este projeto facilita o controle de informações ao realizar requisições para visualizar indicadores, metas e seus melhores meses.</p>
+
+    <h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
+    <ul>
+        <li><strong>Figma.fg</strong> - Design de Dashboards (Storytelling).</li>
+        <li><strong>Power BI</strong> - Desenvolvimento das Requisições e visualização no Power BI.</li>
+        <li><strong>Vercel</strong> - Framework para hospedagem de aplicação web.</li>
+        <li><strong>SQL</strong> - Linguagem SQL usada no Back-end de algumas tabelas como dcalendario e data de carga.</li>
+        <li><strong>Sharepoint</strong> - Tecnologia que hospedou a tabela de Receitas na Web.</li>
+    </ul>
+
+    <h2 id="pre-requisitos">Pré-Requisitos</h2>
+    <p>Antes de começar, você precisa ter o seguinte instalado na sua máquina:</p>
+    <ul>
+        <li><a href="https://www.figma.com/">Figma.fg</a> (Versão 14 ou superior)</li>
+        <li><a href="https://login.microsoftonline.com/">Power-BI</a></li>
+        <li><a href="https://python.org.br/instalacao-windows/">Python</a></li>
+        <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022">SQL</a></li>
+    </ul>
+
+    <h2 id="link-git">Link-Git</h2>
+    <p>Clone o repositório:</p>
+    <pre>
+    git clone https://github.com/Paullo-Matheus/Power-BI-Faturamento.git
+    </pre>
+    <p>Navegue até o diretório do projeto:</p>
+    <pre>
+    cd  Projeto_Power-BI-Faturamento
+    </pre>
+   
+
+    <h2 id="contato">Contato</h2>
+    <ul>
+        <li><strong>E-mail</strong>: Paullomatheus.226@gmail.com</li>
+        <li><strong>E-mail</strong>: Paulo.maraujo@telefonica.com</li>
+        <li><strong>RM</strong>: A0152641</li>
+        <li><strong>Celular</strong>: (11)-99235-6351</li>
+    </ul>
+
+    <h2 id="uso">Uso</h2>
+    <p>Uso do código no arquivo <strong>uso.py</strong>:</p>
+    <pre>
+    import sys
+    import os
+
+    Print("Segue link do Relatório:")
+
+    # Power-BI
+    https://app.powerbi.com/links/3UmY307WWk?ctid=9744600e-3e04-492e-baa1-25ec245c6f10&pbi_source=linkShare
+
+    # Adicionando o caminho da pasta 'src' e path guardando o link em diretório
+    link_powerbi = "https://app.powerbi.com/links/3UmY307WWk?ctid=9744600e-3e04-492e-baa1-25ec245c6f10&pbi_source=linkShare"
+    with open("link_powerbi.txt", "w") as file:
+        file.write(link_powerbi)
+    </pre>
+
+</body>
+</html>

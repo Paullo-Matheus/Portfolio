@@ -17,7 +17,7 @@
 
 ## Descrição
 
-Conhecimentos em Projetos que impacta o cliente final com informações de negócios, faturamento, regras de negócio aplicado em negociações e clientesgit que não foram impactados pela Covid-19 no ano de 2020.
+Conhecimentos em Projetos que impacta o cliente final com informações de negócios, faturamento, regras de negócio aplicado em negociações e clientes que não foram impactados pela Covid-19 no ano de 2020.
 
 Exemplo:
 - Este projeto facilita a visualização e capturação das informações de Faturamento.

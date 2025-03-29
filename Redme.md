@@ -1,91 +1,92 @@
-# Aplicação POWER-BI ( MKT-Faturamento)
+# Projetos de Dados
 
 > Breve descrição sobre mim: Meu Nome é Paulo Matheus Gomes e sou apaixonado por dados, atualmente faço uma pós graduação em Ciência de Dados e Machine Learning na Fiap.
 
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQE3Ako91luc9Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730928598467?e=1744243200&v=beta&t=THh9lQY5HsbcdeV1wTiERnGygRbx8mpUlecZEkMRvc8" alt="Logo" width="200"/>
 
-> Breve descrição e finalidade do Projeto.
+> Breve descrição e finalidade de alguns Projetos e impactos na organização.
 
 ## Índice
 
 - [Descrição](#descrição)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-Requisitos](#pré-requisitos)
+- [Conhecimentos em Tecnologias](#conhecimentos-em-tecnologias)
+- [Projetos](#projetos)
 - [Link-Git](#link-git)
 - [Contato](#contato)
-- [Uso](#uso)
+- [Fim](#fim)
 
 ## Descrição
 
-Projeto de aplicação Power BI com o objetivo de Visualizar os principáis indicadores envolvendo Faturamento da Empresa. Foi desenvolvido em linguagem Dax.
+Conhecimentos em Projetos que impacta o cliente final com informações de negócios, faturamento, regras de negócio aplicado em negociações e cliente que não foram impactados pela Covid-19 no ano de 2020.
 
 Exemplo:
-- Este projeto facilita o controle de informações ao realizar requisições para visualizar indicadores, metas e seus melhores meses.
+- Este projeto facilita a visualização e capturação das informações de Faturamento.
 
-## Tecnologias Utilizadas
+## Conhecimentos em Tecnologias 
 
 - **Figma.fg** - Design de Dashboards (Storytelling).
-- **Power BI** - Desenvolvimento das Requisições e visualização no Power BI.
+- **Power BI** - Desenvolvimento em dax e visualização no Power BI.
 - **Vercel** - Framework para hospedgem de aplicação web.
-- **SQL** - Linguagem SQL usado no Back-end de algumas tabelas como dcalendario e data de carga.
+- **SQL** - Linguagem SQL.
 - **Sharepoint** - Tecnologia que hospedou a tabela de Receitas na Web.
+- **Python** - Linguagem de Programação e Machine Learning.
+- **Servidores** - Admnistração Servidores - SO Windows.
+- **AWS-FABRIC** - Sistemas em Nuvem.
 
-## Pré-Requisitos
+## Projetos
 
-Antes de começar, você precisa ter o seguinte instalado na sua máquina:
+Para acessar os relatorios basta clicar no título em azul dos Projetos
 
-- [Figma.fg](https://www.figma.com/) (Versão 14 ou superior)
-- [Power-BI](https://login.microsoftonline.com/)
-- [Python](https://python.org.br/instalacao-windows/)
-- [SQL](https://www.microsoft.com/pt-br/sql-server/sql-server-2022)
+Lista de Projetos:
 
-Certifique-se de que o serviço esteja em execução se estiver utilizando localmente.
+- [Clientes não impactados pela Covid-19](https://app.powerbi.com/reportEmbed?reportId=cc044538-1628-4a5f-8f6d-cfa4bc714765&autoAuth=true&ctid=9744600e-3e04-492e-baa1-25ec245c6f10) - Principal objetivo é visualizar a volumetria dos principais Cliente que não tiveram impacto pela Covid:
+
+<img src="https://private-user-images.githubusercontent.com/152665366/428341188-34507979-d990-4c92-a7db-d7dfc194afbf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMyNzQ3ODgsIm5iZiI6MTc0MzI3NDQ4OCwicGF0aCI6Ii8xNTI2NjUzNjYvNDI4MzQxMTg4LTM0NTA3OTc5LWQ5OTAtNGM5Mi1hN2RiLWQ3ZGZjMTk0YWZiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyOVQxODU0NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNjUwYzZlNzViNDMyYTZiYWEzOThhMGVkODg2NGY0ZjkzNGFmYWQ3YTc1NjFjOTY2Zjg4MjFmMTVlYTM5YzIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KkvOtniN5KvpKBy2FrVhLy75tgV7TBTBVLiIPwLcw9g" alt="Logo" width="600"/>
+
+<br>
+
+<br/>
+
+- [Faturamento](https://app.powerbi.com/reportEmbed?reportId=b64d46b5-0aff-476d-bac2-d25f44948844&autoAuth=true&ctid=9744600e-3e04-492e-baa1-25ec245c6f10) - Principal objetivo é visualizar os principais meses em destaque Faturamento de acordo com o indicador meta e seus custos:
+
+<img src="https://private-user-images.githubusercontent.com/152665366/428341761-93a421e7-abf7-44b5-8ed5-0eb5538da0c2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMyNzU0OTcsIm5iZiI6MTc0MzI3NTE5NywicGF0aCI6Ii8xNTI2NjUzNjYvNDI4MzQxNzYxLTkzYTQyMWU3LWFiZjctNDRiNS04ZWQ1LTBlYjU1MzhkYTBjMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyOVQxOTA2MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYzgxNDBhMDRkNTI1N2Y2ZjI2YmEwNDYzMDkwNzM4MzE3ZDU1NGE1YzEzMTVhZTA5ZDAxZTYwNmVmYzQ1MmJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LJByJMABORswUqxC_9EhI2tu6CKP6xjKVwDhdTzHFzg" alt="Logo" width="600"/>
+
+- [Negociações B2B](https://app.powerbi.com/reportEmbed?reportId=8df076ee-ee38-4afc-adc5-c254fb80cf5c&autoAuth=true&ctid=9744600e-3e04-492e-baa1-25ec245c6f10) - principal objetivo é ver a qualidade e aprovações das negociações B2B!
+
+<img src="https://private-user-images.githubusercontent.com/152665366/428343425-f1491419-5961-4dd2-9494-2b234c109918.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMyNzcxNjAsIm5iZiI6MTc0MzI3Njg2MCwicGF0aCI6Ii8xNTI2NjUzNjYvNDI4MzQzNDI1LWYxNDkxNDE5LTU5NjEtNGRkMi05NDk0LTJiMjM0YzEwOTkxOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyOVQxOTM0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NDExMTVhYmQ4ODVlOWQ2MDhkZGI1ZDIyYTVmMGJhZjcxNzM1NzUwMjZmNzM5OTIyNzE3ZWFlNTY5MzEwYzg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vES16K-gsDEJIqeZXthpvX6fSU87msgSvLmWCeulSZw" alt="Logo" width="600"/>
+
+
+Certifique-se de que os links tenha funcionado.
+
 
 ## Link-Git
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/Paullo-Matheus/Power-BI-Faturamento.git
-    ```
-
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd Projeto_Power-BI-Faturamento
-    ```
+    git clone https://github.com/Paullo-Matheus/Portfolio
 
 
 
 ## Contato
 
 - **E-mail**: Paullomatheus.226@gmail.com
-- **E-mail**: Paulo.maraujo@telefonica.com
-- **RM**: A0152641
 - **Celular**: (11)-99235-6351 
 
-## Link-Acesso
-
-`https://app.powerbi.com/links/3UmY307WWk?ctid=9744600e-3e04-492e-baa1-25ec245c6f10&pbi_source=linkShare`
 
 
 
 
-## Uso
 
-`uso.py` 
+## Fim
+
+
 
 ```python
 import sys
 import os
 
-Print("Segue link do Relatório:")
+Print("Espero que tenha gostado do Conteúdo")
 
-#Power-BI
-https://app.powerbi.com/links/3UmY307WWk?ctid=9744600e-3e04-492e-baa1-25ec245c6f10&pbi_source=linkShare
-
-# Adicionando o caminho da pasta 'src' e path guardando o link em diretório
-link_powerbi = "https://app.powerbi.com/links/3UmY307WWk?ctid=9744600e-3e04-492e-baa1-25ec245c6f10&pbi_source=linkShare"
-with open("link_powerbi.txt", "w") as file:
-    file.write(link_powerbi)
 
 
 from routes.api_routes import init_routes

@@ -4,7 +4,7 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQE3Ako91luc9Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730928598467?e=1744243200&v=beta&t=THh9lQY5HsbcdeV1wTiERnGygRbx8mpUlecZEkMRvc8" alt="Logo" width="200"/>
 
-> Breve descrição e finalidade de alguns Projetos e impactos na organização.
+> Breve descrição e finalidade de alguns Projetos.
 
 ## Índice
 

@@ -35,9 +35,27 @@ Exemplo:
 
 ## Projetos
 
-Para acessar os relatorios basta clicar no título em azul dos Projetos
+
+
+Engenharia de Dados:
+
+- Principal objetivo do projeto é capturar informações da bovespa, pregão data de hoje, guardar no data lake através de um arquivo parquet, job glue pega as informações do data lake para fazer transformações de dados para que no final esteja o dado/tabela disponibilizado no data catalog SQL da Amazon!
+
+Visual ETL:
+
+<img src="https://private-user-images.githubusercontent.com/152665366/428701801-f138f946-9838-4bf9-a009-49ae5503560c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0Mzg4MDQsIm5iZiI6MTc0MzQzODUwNCwicGF0aCI6Ii8xNTI2NjUzNjYvNDI4NzAxODAxLWYxMzhmOTQ2LTk4MzgtNGJmOS1hMDA5LTQ5YWU1NTAzNTYwYy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMzMVQxNjI4MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NzIyZjkyNjU4ZDU0N2I3NTI2NTM3NGYxMGQ5OGZmMmZhY2FiMDFiYjZlNDk5NDNjYmJlMTczZTVjNDkzZWRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jU3LYygklj6sOVL7bh6cSXYfa9fwipV49jfgmTnpj3M"
+alt="Logo" width="600"/>
+
+Fluxograma do Projeto:
+
+<img src="https://private-user-images.githubusercontent.com/152665366/428701800-b49c22fd-1be5-48fe-a97d-4d3abd7da684.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0Mzg4MDQsIm5iZiI6MTc0MzQzODUwNCwicGF0aCI6Ii8xNTI2NjUzNjYvNDI4NzAxODAwLWI0OWMyMmZkLTFiZTUtNDhmZS1hOTdkLTRkM2FiZDdkYTY4NC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMzMVQxNjI4MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOWYxYWVjNDQwZDE0NjdjYmI2ZmJhZmQ2YmQ1ZjBhNzY3NjI5Mzk2YmM4YmIyY2E3MDMwMDhjMzZlZTBhNTgzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.W31KTdIeJXa3KnMTjqkRCXQjf9BJPDQQEKJwGBib6lY" alt="Logo" width="600"/>
+
+<br> <br/>
+BI:
 
 Lista de Projetos:
+<br> <br/>
+Para acessar os relatorios basta clicar no título em azul dos Projetos
 
 - [Clientes não impactados pela Covid-19](https://app.powerbi.com/reportEmbed?reportId=cc044538-1628-4a5f-8f6d-cfa4bc714765&autoAuth=true&ctid=9744600e-3e04-492e-baa1-25ec245c6f10) - Principal objetivo é visualizar a volumetria dos principais Cliente que não tiveram impacto pela Covid:
 
@@ -87,9 +105,4 @@ import os
 
 Print("Espero que tenha gostado do Conteúdo")
 
-
-
-from routes.api_routes import init_routes
-from server.instancia import server
-from flask_restx import Api
 

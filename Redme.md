@@ -2,7 +2,7 @@
 
 > Breve descrição sobre mim: Meu Nome é Paulo Matheus Gomes e sou apaixonado por dados, atualmente faço uma pós graduação em Ciência de Dados e Machine Learning na Fiap.
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQE3Ako91luc9Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730928598467?e=1744243200&v=beta&t=THh9lQY5HsbcdeV1wTiERnGygRbx8mpUlecZEkMRvc8" alt="Logo" width="200"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQE3Ako91luc9Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730928598434?e=1752710400&v=beta&t=xkfByoZPkuB1bvBTetSsIFUAvhJ5OxAu7P74IFI6Tmk" alt="Logo" width="200"/>
 
 > Breve descrição e finalidade de alguns Projetos.
 
